@@ -60,7 +60,7 @@ Starting from a business question — not the data.
 
 ## 🌱 Where I Am
 
-I'm at the beginning of my professional analytics career — actively building projects focused on revenue, customer behavior, and business decision-making.
+I'm transitioning into a professional Data Analytics career, building projects focused on revenue, customer behavior, and business decision-making.
 
 I believe the best analysts grow by **learning in public**: sharing what they discover, what they get wrong, and how they think through problems.
 
