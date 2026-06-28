@@ -1,21 +1,29 @@
-# Hi, I'm Mokdad 👋
+# Hi, I'm Mekdad 👋
 
-### Junior Data Analyst — Customer & Product Analytics
-
-I turn raw e-commerce data into revenue decisions.  
-My focus: understanding *why* customers behave the way they do — and translating that into clear, actionable business recommendations.
+**Data Analyst — Revenue & Customer Analytics**  
+*I start with the business problem, not the data.*
 
 ---
 
-## 🔍 What I Do
+Most data analysts start with data.  
+I start with the question: **what business problem are we actually trying to solve?**
 
-- **Funnel Diagnosis** — Where are customers dropping off, and why?
-- **Revenue Health Analysis** — Decomposing revenue into Visitors × Conversion Rate × AOV to find the real problem
-- **Customer Behavior Analytics** — Segmentation, retention patterns, and seasonal demand
+This shift in thinking changed how I approach every analysis — whether I'm digging into revenue drivers, mapping customer behavior, or breaking down a conversion funnel.  
+I work backwards from the business context to the data, not the other way around.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I Focus On
+
+**Revenue Analytics** — Understanding what moves revenue and why, not just reporting the numbers.
+
+**Customer Analytics** — How customers behave, where they drop off, and what patterns explain their decisions.
+
+**Business Problem Framing** — Translating vague business questions into clear analytical frameworks before touching any data.
+
+---
+
+## 🛠️ How I Work
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,32 +32,44 @@ My focus: understanding *why* customers behave the way they do — and translati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+**Python & SQL** — to clean, transform, and analyze data.  
+**Power BI** — to turn findings into visual stories that non-technical stakeholders can act on.  
+**Excel** — for structured, fast-turnaround analysis.
+
+> Tools are always secondary. The real work is asking the right question first.
+
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-### 🛒 TheLook E-Commerce — Product & Behavioral Analytics
-> **Business Question:** What drives seasonal revenue peaks — and how do we replicate them?
+### 🛒 [TheLook E-Commerce — Customer Retention Analysis](https://github.com/MEQDAD0904/thelook-ecommerce-customer-retention-analysis-)
+
+> *I spent 5 weeks analyzing why an e-commerce platform loses 78% of its customers.*
 
 An end-to-end analytics project on a real-world e-commerce dataset.  
-Stack: PostgreSQL · Python · Jupyter Notebooks
+Starting from a business question — not the data.
 
-- Funnel analysis to identify drop-off points in the purchase journey  
-- Seasonal demand patterns (Q4 Black Friday / Christmas effect)  
-- Revenue decomposition: Visitors → Conversion → AOV
+- 📈 Seasonal revenue patterns — Q4 Black Friday & Christmas effect  
+- 💡 Revenue decomposition: Visitors → Conversion Rate → AOV
+- 👥 Customer segmentation and retention behavior  
 
-🔗 [View Project →](https://github.com/YOUR_USERNAME/thelook-analytics)
+
+**Stack:** PostgreSQL · Python · Pandas · Jupyter Notebooks
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Where I Am
 
-![Mokdad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+I'm at the beginning of my professional analytics career — actively building projects focused on revenue, customer behavior, and business decision-making.
+
+I believe the best analysts grow by **learning in public**: sharing what they discover, what they get wrong, and how they think through problems.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently open to **junior data analyst roles** with a focus on customer and product analytics.
+If you're building a data team or looking for someone who thinks about **business outcomes first** — I'd love to connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekdad-adam-mohajer-616525377)
+
+
